@@ -11,12 +11,12 @@
       <![CDATA[opening meesho]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-23T01:20:57 IST" name="Suite" finished-at="2023-08-23T01:21:14 IST" duration-ms="16420">
+  <suite started-at="2023-08-24T02:46:10 IST" name="Suite" finished-at="2023-08-24T02:47:28 IST" duration-ms="77878">
     <groups>
     </groups>
-    <test started-at="2023-08-23T01:20:57 IST" name="Test" finished-at="2023-08-23T01:21:14 IST" duration-ms="16420">
+    <test started-at="2023-08-24T02:46:10 IST" name="Test" finished-at="2023-08-24T02:47:28 IST" duration-ms="77878">
       <class name="e_commerce.Meesho">
-        <test-method signature="meesho_test()[pri:0, instance:e_commerce.Meesho@1725dc0f]" started-at="2023-08-23T01:21:09 IST" name="meesho_test" finished-at="2023-08-23T01:21:14 IST" duration-ms="4422" status="PASS">
+        <test-method signature="meesho_test()[pri:0, instance:e_commerce.Meesho@4ac3c60d]" started-at="2023-08-24T02:47:12 IST" name="meesho_test" finished-at="2023-08-24T02:47:28 IST" duration-ms="15893" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening meesho]]>
@@ -25,7 +25,7 @@
         </test-method> <!-- meesho_test -->
       </class> <!-- e_commerce.Meesho -->
       <class name="e_commerce.Amazon">
-        <test-method signature="amazon_test()[pri:0, instance:e_commerce.Amazon@31368b99]" started-at="2023-08-23T01:21:04 IST" name="amazon_test" finished-at="2023-08-23T01:21:09 IST" duration-ms="5723" status="PASS">
+        <test-method signature="amazon_test()[pri:0, instance:e_commerce.Amazon@3911c2a7]" started-at="2023-08-24T02:46:40 IST" name="amazon_test" finished-at="2023-08-24T02:47:12 IST" duration-ms="31892" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening amazon]]>
@@ -34,7 +34,7 @@
         </test-method> <!-- amazon_test -->
       </class> <!-- e_commerce.Amazon -->
       <class name="e_commerce.Flipkart">
-        <test-method signature="flipkart_test()[pri:0, instance:e_commerce.Flipkart@5c30a9b0]" started-at="2023-08-23T01:20:57 IST" name="flipkart_test" finished-at="2023-08-23T01:21:04 IST" duration-ms="6219" status="PASS">
+        <test-method signature="flipkart_test()[pri:0, instance:e_commerce.Flipkart@1139b2f3]" started-at="2023-08-24T02:46:10 IST" name="flipkart_test" finished-at="2023-08-24T02:46:40 IST" duration-ms="30024" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening flipkart]]>
