@@ -12,6 +12,7 @@ public class Flipkart {
 	  Reporter.log("opening flipkart",true);
 		 WebDriver driver=new ChromeDriver();
 		 driver.get("https://www.flipkart.com/ ");
+		System.out.println("shopping page");
 		  driver.quit();  
 	  
 	  
